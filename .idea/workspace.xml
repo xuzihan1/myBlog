@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a456c83-19e6-499c-aeaa-9e320b437c94" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S19yumwm7H9OFvoGegKgavFUUL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/diary" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\程序\blogs\docs\.vuepress\public\img" />
+      <recent name="D:\程序\blogs\docs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\程序\blogs\docs\diary" />
+      <recent name="D:\程序\blogs\docs\baodian\high" />
+      <recent name="D:\程序\blogs\docs\baodian\zero" />
+      <recent name="D:\程序\blogs\docs\baodian" />
+      <recent name="D:\程序\blogs\docs\guide" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a456c83-19e6-499c-aeaa-9e320b437c94" name="默认更改列表" comment="" />
+      <created>1570720495419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570720495419</updated>
+      <workItem from="1570720507730" duration="1643000" />
+      <workItem from="1570722353236" duration="1461000" />
+      <workItem from="1570723934201" duration="24000" />
+      <workItem from="1570724033554" duration="629000" />
+      <workItem from="1570756022773" duration="390000" />
+      <workItem from="1570760779423" duration="4903000" />
+      <workItem from="1570770011571" duration="599000" />
+      <workItem from="1570813752257" duration="636000" />
+      <workItem from="1570814571312" duration="5999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
